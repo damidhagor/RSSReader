@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RSSReader.Data.API.Client\RSSReader.Data.API.Client.csproj" />
+    <ProjectReference Include="..\..\Data\RSSReader.Data.API.Contract\RSSReader.Data.API.Contract.csproj" />
   </ItemGroup>
 
 </Project>
